@@ -1,0 +1,105 @@
+➜  yana-rep git:(koshka) ✗ cd /Users/klaster/Documents/Яна 
+➜  Яна clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+➜  Яна git clone git@github.com:klasterstorm/yana-rep.git
+Cloning into 'yana-rep'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+➜  Яна ls
+1
+CProjects
+CProjects.zip
+JobOffer_Simonova — копия.png.pdf
+kek.txt
+newdir
+untitled
+untitled1
+yana-rep
+ДОГОВОР ИП.pdf
+Должностная_инструкция_координатора_проектного_отдела.docx
+Доп_соглашение_к_ТД_№22-04-26.docx
+ТД ИТОГ.docx
+ТД_редактируемый.pages
+ТРУДОВОЙ ДОГОВОР Nº 220426.pdf
+Трудовой_договор_22-04-26_с_правками.pages
+Трудовой_договор_22-04-26_редактируемый.docx
+➜  Яна cd yana-rep
+➜  yana-rep git:(main) git checkout -b koshka2
+Switched to a new branch 'koshka2'
+➜  yana-rep git:(koshka2) git status
+On branch koshka2
+nothing to commit, working tree clean
+➜  yana-rep git:(koshka2) git push -u origin koshka2
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'koshka2' on GitHub by visiting:
+remote:      https://github.com/klasterstorm/yana-rep/pull/new/koshka2
+remote: 
+To github.com:klasterstorm/yana-rep.git
+ * [new branch]      koshka2 -> koshka2
+branch 'koshka2' set up to track 'origin/koshka2'.
+➜  yana-rep git:(koshka2) ls
+README.md
+➜  yana-rep git:(koshka2) nano test
+
+  UW PICO 5.09                                                     File: test                                                      Modified  
+
+raw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File Name to write : tetsting                                                                                                                
+^G Get Help            ^T  To Files                                                                                                       
+^C Cancel              TAB Complete                                                                                                       
